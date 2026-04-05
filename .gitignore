@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+
+# React
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
